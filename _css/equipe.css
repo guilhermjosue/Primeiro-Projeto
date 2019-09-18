@@ -219,7 +219,7 @@ header li a:hover{
 	}
 	
 	.cont-42{
-		width: 100vw; 
+		width: 100%; 
 		background-image: url(../_imagens/prof-feliz.png); 
 		background-repeat: no-repeat; 
 		background-size: cover; 
